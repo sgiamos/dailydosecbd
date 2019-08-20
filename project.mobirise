@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Daily Dose CBD",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "storem4",
       "title": "StoreM4",
@@ -18,7 +18,7 @@
         "display2Font": "Poppins",
         "display2Size": "1.4",
         "display5Font": "Comfortaa",
-        "display5Size": "1",
+        "display5Size": "0.8",
         "display7Font": "Montserrat",
         "display7Size": "0.8",
         "display4Font": "Poppins",

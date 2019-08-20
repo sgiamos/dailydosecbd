@@ -40,7 +40,7 @@ body {
 }
 .display-7 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.4rem;
+  font-size: 0.8rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -1115,7 +1115,7 @@ a:hover {
   border-radius: 22px;
   padding: 18px 25px;
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.4rem;
+  font-size: 0.8rem;
   line-height: 1.43;
   min-height: 3.5em;
 }
@@ -1592,7 +1592,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #71c201;
+  background-color: #30b7b3;
 }
 .cid-ry2HDKtFJl button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1781,7 +1781,7 @@ body {
   z-index: 1;
   border-top-left-radius: 10px;
   border-bottom-right-radius: 10px;
-  background-color: #71c201;
+  background-color: #30b7b3;
 }
 .cid-ry2M6oPBte .card .card-wrapper .card-img .img-text span {
   display: block;
@@ -2351,7 +2351,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #71c201;
+  background-color: #30b7b3;
 }
 .cid-ry2HDKtFJl button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2437,7 +2437,7 @@ body {
 .cid-rzmOTCUywI {
   padding-top: 135px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-rzmOTCUywI .container-fluid {
   padding: 0 3rem;
@@ -2478,7 +2478,7 @@ body {
   text-decoration: none !important;
 }
 .cid-rzmOTCUywI .card .card-header a.panel-title:hover .sign {
-  background-color: #3ab7a7 !important;
+  background-color: #71c201 !important;
 }
 .cid-rzmOTCUywI .card .card-header a.panel-title .sign {
   position: absolute;
@@ -2486,7 +2486,7 @@ body {
   top: 0;
   bottom: 0;
   border-radius: 0 25px 25px 0;
-  background-color: #71c201;
+  background-color: #30b7b3;
   padding: 2rem;
   padding-top: 26px;
   color: white;
@@ -2521,10 +2521,21 @@ body {
     width: calc(100% - 48px);
   }
 }
+.cid-rzmOTCUywI .header-text,
+.cid-rzmOTCUywI .sign {
+  color: #000000;
+}
+.cid-rzmOTCUywI .toggle-header {
+  color: #000000;
+}
+.cid-rzmOTCUywI .mbr-section-title,
+.cid-rzmOTCUywI .underline {
+  color: #30b7b3;
+}
 .cid-rzmQtWgTZL {
   padding-top: 0px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-rzmQtWgTZL .container-fluid {
   padding: 0 3rem;
@@ -2565,7 +2576,7 @@ body {
   text-decoration: none !important;
 }
 .cid-rzmQtWgTZL .card .card-header a.panel-title:hover .sign {
-  background-color: #3ab7a7 !important;
+  background-color: #71c201 !important;
 }
 .cid-rzmQtWgTZL .card .card-header a.panel-title .sign {
   position: absolute;
@@ -2573,7 +2584,7 @@ body {
   top: 0;
   bottom: 0;
   border-radius: 0 25px 25px 0;
-  background-color: #71c201;
+  background-color: #30b7b3;
   padding: 2rem;
   padding-top: 26px;
   color: white;
